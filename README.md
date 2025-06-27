@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="left">🎓 Information Technology undergrad @NIT Jalandhar 💻 Backend Development | System Design | AI Enthusiast 🚀Building intelligent systems</h3>
+<h3 align="left">🎓 Information Technology undergrad @NIT Jalandhar <hr>💻 Backend Development | System Design | AI Enthusiast 🚀Building intelligent systems</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <br>
