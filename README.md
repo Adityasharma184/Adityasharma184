@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">🎓 Information Technology undergrad @NIT Jalandhar 💻 Backend Development | System Design | AI Enthusiast 🚀Building intelligent systems</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3RkkXeLKE4gBUczz2RFU1y&ust=1751098701591000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCztaCVkY4DFQAAAAAdAAAAABAe">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 🔭 I’m currently working on **Cybersecurity Threat Detector**
 
